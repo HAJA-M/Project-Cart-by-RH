@@ -10,3 +10,7 @@ Déscription :
 - miova Automobile ilay kalesa (asiana carrosserie)
 - Automobile mande (atteint mi-deadline=> 13/07/2025)
 - ---tohizanan idée rahapitso 14/07/2022
+
+Tohiny :
+Date androany 28 août 2022 > 28/08/2022
+Mbola mihezaka manomana licence en developpement web sy réseau.
